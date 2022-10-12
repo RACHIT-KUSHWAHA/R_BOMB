@@ -20,7 +20,7 @@ except ImportError:
 
 colors = ['\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;34m', '\033[1;35m', '\033[1;36m']
 W = '\033[0m'
-# The Credit For This Code Goes To Panda Hackers https://github.com/HACK3RY2J/PBomb
+# The Credit For This Code Goes To Panda Hackers https://github.com/RACHIT-KUSHWAHA/R_BOMB
 # If You Wanna Take Credits, Please Look Yourself Again!!
 
 country_codes = {
@@ -245,12 +245,12 @@ def banner():
       ██▒▒▒██ ██▒▒▒██                ██             
       ██   ██ ██   ██  ████  ██   ██ ██             
       ███████ ██████▒ ██▒▒██ ███ ███ █████          
-      ██▒▒▒▒▒ ██▒▒▒██ ██  ██ ██▒█▒██ ██▒▒██         
-      ██      ██   ██ ██  ██ ██ ▒ ██ ██  ██         
-      ██      ██████▒ ▒████▒ ██   ██ █████▒         
-      ▒▒      ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
+      ███▒▒▒▒ ██▒▒▒██ ██  ██ ██▒█▒██ ██▒▒██         
+      ██ ██    ██   ██ ██  ██ ██ ▒ ██ ██  ██         
+      ██  ██   ██████▒ ▒████▒ ██   ██ █████▒         
+      ▒▒   ██  ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
                                          """
-    print(random.choice(colors) + logo + W)
+    print(random.choice(colors) + logo + R) 
     print("\n")
 
 
@@ -289,7 +289,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt Looks That Your Internet Speed is Slow....")
-        print('\t\tPBomb Will Stop Now...\n\n')
+        print('\t\RPBomb Will Stop Now...\n\n')
         banner()
         exit()
 
@@ -432,13 +432,13 @@ def start(target, counter, delay, ch, cc):
             api = random.choice(ch)
         except Exception:
             if cc == "91":
-                print('Sorry All APIs Have Expired Please Update PBomb')
+                print('Sorry All APIs Have Expired Please Update RBomb')
                 input('Press Enter To Exit...')
                 exit()
             else:
                 if success > 0:
                     print(
-                        '\n\n\tBombing Limit For Your Country Has Been Reached...')
+                        '\n\n\RBombing Limit For Your Country Has Been Reached...')
                     print(
                         '\nWe Are Working Too Hard To Increase The International Limit...')
                     input(
@@ -450,7 +450,7 @@ def start(target, counter, delay, ch, cc):
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
                     print(
-                        '\t\tPlease Send A Mail To pandahackers127@gmail.com To Let Us Know...')
+                        '\t\tPlease Send A DM To Instagram.com/rachit_kumar_kushwaha To Let Us Know...')
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
@@ -464,7 +464,7 @@ def start(target, counter, delay, ch, cc):
         print("             Failed Bombs                : ", failed)
         print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         print("                   Use It for fun, not for revenge !!     ")
-        print("             This Bomber Is Maintained By Panda Hackers !!    ")
+        print("             This Bomber Is Maintained By Rachit !!    ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)
@@ -519,11 +519,11 @@ except Exception:
     pass
 if ver != verl:
     print('\n\t\tAn Update is Available....')
-    print('\tUpdating PBomb...')
+    print('\tUpdating RBomb...')
     update()
 print("Congratulation")
 print("Your Version is Up-To-Date")
-print('\n\n\t\t\tBeginning PBomb...\n\n')
+print('\n\n\t\t\tBeginning RBomb...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/HACK3RY2J/ultap/master/.notify").read().decode('utf-8')
@@ -621,7 +621,7 @@ if cbomb:
 if nm == 0:
     nt = int(input("\tNumber Of Threads(10 to 20) : "))
     if nt <= 0 or nt >= 30:
-        print('\tPBomb Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
+        print('\tRBomb Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
     print("\n\nPlease Remember That This Is in Experimental Stage And Is Incredibly Fast...")
     t = [None] * nt
     print(random.choice(colors))
@@ -634,7 +634,7 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("      Use It for fun, Using For Revenge Is Strictly Prohibited !!                ")
-    print("              This Bomber Is Maintained By Panda Hackers !!                ")
+    print("              This Bomber Is Maintained By Rachit !!                ")
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Begin Bomber...\n')
