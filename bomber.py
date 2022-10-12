@@ -491,7 +491,7 @@ def update():
     stuff_to_update = ['bomber.py', '.version']
     for fl in stuff_to_update:
         dat = urllib.request.urlopen(
-            "https://raw.githubusercontent.com/HACK3RY2J/PBomb/master/" + fl).read()
+            "https://raw.githubusercontent.com/RACHIT-KUSHWAHA/R_BOMB/master/" + fl).read()
         file = open(fl, 'wb')
         file.write(dat)
         file.close()
