@@ -1,15 +1,15 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Panda Hackers !!! \e[0m"
+echo -e "\e[4;31m RACHIT !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[4;31m A Special \e[0m"
 echo -e "\e[4;31m Ultra Fast!!! \e[0m"
 echo -e "\e[4;31m Smooth!!! \e[0m"
 echo -e "\e[4;31m Bomber \e[0m"
-echo -e "\e[1;32m PBomb \e[0m"
+echo -e "\e[1;32m RBomb \e[0m"
 echo "Press Enter To Launch"
 read a1
-if [[ -s update.pandahackers ]];then
+if [[ -s update.RACHIT ]];then
 echo "All Requirements Found...."
 else
 echo 'Installing Requirements....'
@@ -19,7 +19,7 @@ apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 pip install -r requirements.txt
-echo This Script Is Maintained By Panda Hackers >update.pandahackers
+echo This Script Is Maintained By RACHIT >update.pandahackers
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -29,13 +29,10 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet -f slant PBomb | lolcat
+figlet -f slant RBomb | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border PH | lolcat
-echo -e "\e[4;34m This Bomber Is Maintained By Panda Hackers \e[0m"
-echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m           Mail: pandahackers127@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://youtube.com/c/PandaHackers/ \e[0m"
+echo -e "\e[4;34m This Bomber Is Maintained By RACHIT \e[0m"
 echo " "
 echo -e "\e[4;31m Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -55,7 +52,7 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call Bomb By Panda Hackers'> call.xxx
+echo 'Call Bomb By Rachit'> call.xxx
 python3 bomber.py call
 rm *.xxx >/dev/null 2>&1
 exit 0
@@ -65,7 +62,7 @@ apt install git -y
 echo -e "\e[1;34m Requesting Update From Source..."
 echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
-git clone https://github.com/HACK3RY2J/PBomb
+git clone https://github.com/RACHIT-KUSHWAHA/R_BOMB
 if [[ -s RBomb/RBomb.sh ]];then
 cd RBomb
 cp -r -f * .. > temp
