@@ -20,7 +20,7 @@ except ImportError:
 
 colors = ['\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;34m', '\033[1;35m', '\033[1;36m']
 W = '\033[0m'
-# The Credit For This Code Goes To Panda Hackers https://github.com/RACHIT-KUSHWAHA/R_BOMB
+# The Credit For This Code Goes To Rachit https://github.com/RACHIT-KUSHWAHA/R_BOMB
 # If You Wanna Take Credits, Please Look Yourself Again!!
 
 country_codes = {
@@ -250,7 +250,7 @@ def banner():
       ██  ██   ██████▒ ▒████▒ ██   ██ █████▒         
       ▒▒   ██  ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
                                          """
-    print(random.choice(colors) + logo + R) 
+    print(random.choice(colors) + logo + W) 
     print("\n")
 
 
