@@ -1,4 +1,4 @@
-<h1 align="center">PBomb v1.1</h1>
+<h1 align="center">RBomb v1.1</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 This script is only for educational purposes or to prank.
@@ -63,16 +63,16 @@ Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
 ## Usage
-Run These Commands To Run PBomb
+Run These Commands To Run RBomb
 ### For Termux
 To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python 
-git clone https://github.com/HACK3RY2J/PBomb.git 
-cd PBomb
-chmod +x PBomb.sh
-./PBomb.sh
+git clone https://github.com/RACHIT-KUSHWAHA/R_BOMB.git 
+cd RBomb
+chmod +x RBomb.sh
+./RBomb.sh
 ```
 
 ### For Linux
@@ -89,8 +89,8 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 pkg install python 
-git clone https://github.com/HACK3RY2J/PBomb.git 
-cd PBomb
-chmod +x PBomb.sh
-sudo bash PBomb.sh
+git clone https://github.com/RACHIT-KUSHWAHA.git 
+cd RBomb
+chmod +x RBomb.sh
+sudo bash RBomb.sh
 ```
