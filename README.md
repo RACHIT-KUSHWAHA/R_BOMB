@@ -18,9 +18,9 @@ None of the developers/contributors are responsible for the misuse of RBomb.тЪая
 
 -----------
 
-- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/network/members"><img src="https://img.shields.io/github/forks/dominator454/DOMINATORXBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/network/members"><img src="https://img.shields.io/github/forks/RACHIT-KUSHWAHA/R_BOMB?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/stargazers"><img src="https://img.shields.io/github/stars/dominator454/DOMINATORXBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT?"></a>
+- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/stargazers"><img src="https://img.shields.io/github/stars/RACHIT-KUSHWAHA/R_BOMB?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB"></a><p align="left"><a href="https://github.com/RACHIT-KUSHWAHA/R_BOMBdominator454/?"></a>
 
 -----------
 
@@ -93,7 +93,7 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python 
 git clone https://github.com/RACHIT-KUSHWAHA/R_BOMB.git 
-cd RBomb
+cd R_Bomb
 chmod +x RBomb.sh
 ./RBomb.sh
 ```
@@ -113,7 +113,7 @@ To use the bomber type the following commands in Linux terminal:
 sudo apt install git
 pkg install python 
 git clone https://github.com/RACHIT-KUSHWAHA.git 
-cd RBomb
+cd R_Bomb
 chmod +x RBomb.sh
 sudo bash RBomb.sh
 ```
