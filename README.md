@@ -16,6 +16,22 @@ None of the developers/contributors are responsible for the misuse of RBomb.тЪая
 - Adding Lolcat To Make More Colourful Start.
 ## Note:
 
+
+-----------
+
+- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/network/members"><img src="https://img.shields.io/github/forks/dominator454/DOMINATORXBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+
+- <a href="https://github.com/RACHIT-KUSHWAHA/R_BOMB/stargazers"><img src="https://img.shields.io/github/stars/dominator454/DOMINATORXBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT"></a><p align="left"><a href="https://github.com/dominator454/DOMINATORXBOT?"></a>
+
+-----------
+
+---------
+
+- [![Instagram](https://img.shields.io/badge/Instagram-Pink)](https://instagram.com/rachit_kumar_kushwaha/)
+
+-----------
+
+
 **You've been warned.**
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
