@@ -2,7 +2,7 @@
 <b> 『 💣 ʀ ʙᴏᴍʙ 💣 』 </b>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=An open-source SMS/call bomber for Linux And Termux%E2%9C%8C%EF%B8">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+Rajasthan%E2%9C%8C%EF%B8%8F">
 </p> 
 <br>
 
