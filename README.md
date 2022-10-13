@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Ꭿ+ησσв+∂єνєℓσρєя+ғяσм+вιнαя%E2%9C%8C%EF%B8%8F">
 </p> 
 <br>
-
-
+---------
 This script is only for educational purposes or to prank.
 Do not use this to harm others.
 None of the developers/contributors are responsible for the misuse of PBomb.
