@@ -2,7 +2,7 @@
 <b> 『 💣 ʀ ʙᴏᴍʙ 💣 』 </b>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ᴀ+ɴᴏᴏʙ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+ғʀᴏᴍ+ʙɪʜᴀʀ%E2%9C%8C%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Ꭿ+ησσв+∂єνєℓσρєя+ғяσм+вιнαя%E2%9C%8C%EF%B8%8F">
 </p> 
 <br>
 
