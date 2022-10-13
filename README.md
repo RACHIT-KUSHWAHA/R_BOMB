@@ -8,9 +8,9 @@
 
 ---------
 
-This script is only for educational purposes or to prank.
+⚠️ This script is only for educational purposes or to prank.
 Do not use this to harm others.
-None of the developers/contributors are responsible for the misuse of PBomb.
+None of the developers/contributors are responsible for the misuse of RBomb.⚠️
 ## Updates
 **V1.1**
 - Adding Lolcat To Make More Colourful Start.
