@@ -1,5 +1,11 @@
-<h1 align="center">RBomb v1.1</h1>
-<p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
+<h1 align="center">
+<b> 『 💣 ʀ ʙᴏᴍʙ 💣 』 </b>
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=An open-source SMS/call bomber for Linux And Termux%E2%9C%8C%EF%B8">
+</p> 
+<br>
+
 
 This script is only for educational purposes or to prank.
 Do not use this to harm others.
