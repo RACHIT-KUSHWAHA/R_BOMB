@@ -14,7 +14,6 @@ None of the developers/contributors are responsible for the misuse of RBomb.тЪая
 ## Updates
 **V1.1**
 - Adding Lolcat To Make More Colourful Start.
-## Note:
 
 
 -----------
@@ -31,6 +30,7 @@ None of the developers/contributors are responsible for the misuse of RBomb.тЪая
 
 -----------
 
+## Note:
 
 **You've been warned.**
 - The script requires working network connection to work.
